@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 10
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 21
     },
     {
       "id": 3,
@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "toyName": "Lotso",
+      "image": "https://static.wikia.nocookie.net/pure-evil-wiki/images/5/5d/LotsOHugginBear.png/revision/latest?cb=20200324022444",
+      "likes": 8,
+      "id": 9
+    },
+    {
+      "toyName": "Jessie",
+      "image": "https://laurenmichelelifestyle.files.wordpress.com/2015/10/40-jessie-toy-story-giant-wall-decal.jpg",
+      "likes": 7,
+      "id": 10
     }
   ]
 }
